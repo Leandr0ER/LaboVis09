@@ -8,7 +8,7 @@
         { url: "/contact", title: "Contact" },
         { url: "/resume", title: "Resume" },
         { url: "/meta", title: "Meta" },
-        {url: "https://github.com/Mike-Kowalski", title:"Github"}
+        {url: "https://github.com/Leandr0ER/LaboVis09", title:"Github"}
     ];
 
     let colorScheme = "light dark";
