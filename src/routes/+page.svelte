@@ -7,7 +7,7 @@
 </script>
 <h1> Mike Wazowski</h1>
    
-<img src="./images/mike.png" alt="mike" width="500px">
+<img src="./images/Imagen001.jpg" alt="mike" width="500px">
 
 <p>Michael "Mike" Thomas Wazowski is the deuteragonist of the 2001 Disney Pixar animated film Monsters, Inc. and the protagonist of its 2013 prequel.
     Depicted as a diminutive, one-eyed monster with a wisecracking veneer, Mike is an employee of Monsters, Incorporated, where he works closely with his longtime partner/best friend Sulley.
